@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratorio_61_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_nuevo">Nuevo</string>
+    <string name="str_left">Fragmento 1</string>
+    <string name="str_right">Fragmento 2</string>
+    <string name="btn_left">Botón</string>
+    <string name="btn_right">Botón</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
